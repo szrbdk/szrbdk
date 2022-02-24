@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sezer Budak</h1>
-- 🔭 I’m currently working on [Dakik Patient Monitoring System](https://dakik.app/)
 
+- I'm currently working at [Ekinoks Software](https://ekinokssoftware.com/)
+
+- I worked on [Dakik](https://dakik.app/) (September 2019 - November 2021)
+  
 - 💬 Ask me about **Flutter and Dart**
 
 - 📫 How to reach me **szrbdk@gmail.com**
