@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Sezer Budak</h1>
+[My Website](https://sezerbudak.dev/#/)
